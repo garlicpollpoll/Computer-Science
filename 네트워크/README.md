@@ -3,7 +3,7 @@
 현재 네트워크관련 블로그 포스팅은 13개 있으며 공부하면서 재밌었고 포스팅이 뿌듯하게 잘 나온 포스팅순으로 정렬해보았습니다. 
 
 <br>
-<br>
+
 [로드밸런싱 전략 (정적 로드밸런싱, 동적 로드밸런싱)](https://coding-review.tistory.com/319)<br>
 [네트워크 흐름제어와 혼잡제어](https://coding-review.tistory.com/466)<br>
 [동기, 비동기 프로그래밍](https://coding-review.tistory.com/314)<br>
