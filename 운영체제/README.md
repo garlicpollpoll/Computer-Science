@@ -6,9 +6,9 @@
 
 마찬가지로 공부하면서 만족스럽고 뿌듯한 순서대로 정렬하였습니다.
 
-[교착 상태와 기아 상태](https://coding-review.tistory.com/359)
-[리눅스 커널](https://coding-review.tistory.com/508)
-[프로세스 동기화](https://coding-review.tistory.com/354)
-[세마포어와 뮤텍스](https://coding-review.tistory.com/362)
-[동시성 문제와 Thread safe](https://coding-review.tistory.com/351)
-[프로세스와 스레드](https://coding-review.tistory.com/347)
+[교착 상태와 기아 상태](https://coding-review.tistory.com/359) <br>
+[리눅스 커널](https://coding-review.tistory.com/508) <br>
+[프로세스 동기화](https://coding-review.tistory.com/354) <br>
+[세마포어와 뮤텍스](https://coding-review.tistory.com/362) <br>
+[동시성 문제와 Thread safe](https://coding-review.tistory.com/351) <br>
+[프로세스와 스레드](https://coding-review.tistory.com/347) <br>
