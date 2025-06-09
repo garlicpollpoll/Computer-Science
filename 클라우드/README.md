@@ -14,6 +14,6 @@ DevOps 파트는 주로 Docker와 Kubernetes가 주된 내용이며 공부하면
 
 <br>
 
-[쿠버네티스의 장애 회복 알고리즘 Raft](https://coding-review.tistory.com/590)
-[쿠버네티스에 RDB를 배포 해? 말어? 논쟁](https://coding-review.tistory.com/562)
-[Docker 네트워크 아키텍처](https://coding-review.tistory.com/506)
+[쿠버네티스의 장애 회복 알고리즘 Raft](https://coding-review.tistory.com/590) <br>
+[쿠버네티스에 RDB를 배포 해? 말어? 논쟁](https://coding-review.tistory.com/562) <br>
+[Docker 네트워크 아키텍처](https://coding-review.tistory.com/506) <br>
