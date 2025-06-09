@@ -10,7 +10,7 @@
 [AWS SQS, SNS](https://coding-review.tistory.com/540) <br>
 
 <h3>DevOps</h3>
-DevOps 파트는 주로 Docker와 Kubernetes가 주된 내용이며 공부하면서 재밌고 뿌듯했던 것을 내림차순으로 정리해보았습니다. 
+DevOps 파트는 주로 Docker와 Kubernetes가 주된 내용이며 총 33개의 포스팅이 존재하고 공부하면서 재밌고 뿌듯했던 것을 내림차순으로 정리해보았습니다. 
 
 <br>
 
